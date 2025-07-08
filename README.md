@@ -10,17 +10,17 @@ Each task focuses on a specific concept, ranging from foundational Natural Langu
 
 | Filename | Description |
 |---------|-------------|
-| **AI_Text_to_Image_Generator_Task11_8July.ipynb** | Text-to-image generation using Hugging Face's diffusion models. |
 | **Churn_Model_Task1_23June.ipynb** | Machine learning model to predict customer churn. |
-| **Count_Vector_Task4_26June.ipynb** | Basic text feature extraction using Count Vectorization. |
-| **EmojiMood_Emoji_Generator_from_Text_Task9_6July.ipynb** | Predicting emotions and generating relevant emojis based on text. |
-| **GeminiAPI_MiniProject_Task10_7July.ipynb** | Experimenting with Gemini API for NLP tasks. |
-| **LSTM_Project_Task8_2July.ipynb** | Building LSTM models for sequential data tasks. |
 | **MNIST_Dataset_Task2_24June.ipynb** | Digit classification using the MNIST dataset. |
 | **NLP_Task3_25June.ipynb** | Classical NLP preprocessing and analysis. |
+| **Count_Vector_Task4_26June.ipynb** | Basic text feature extraction using Count Vectorization. |
+| **TF-IDF_Proj1_SpamClassifier_Task5_27June.ipynb** | Spam classification using TF-IDF and Logistic Regression. |
 | **Proj2_Recommender-System_Task6_28June.ipynb** | A content-based recommender system using TF-IDF and cosine similarity. |
 | **SentimentAnalysis_SimpleRNN-LSTM_Task7_1July.ipynb** | Sentiment analysis using RNN and LSTM architectures. |
-| **TF-IDF_Proj1_SpamClassifier_Task5_27June.ipynb** | Spam classification using TF-IDF and Logistic Regression. |
+| **LSTM_Project_Task8_2July.ipynb** | Building LSTM models for sequential data tasks. |
+| **EmojiMood_Emoji_Generator_from_Text_Task9_6July.ipynb** | Predicting emotions and generating relevant emojis based on text. |
+| **GeminiAPI_MiniProject_Task10_7July.ipynb** | Experimenting with Gemini API for NLP tasks. |
+| **AI_Text_to_Image_Generator_Task11_8July.ipynb** | Text-to-image generation using Hugging Face's diffusion models. |
 | **README.md** | Project overview and task descriptions. |
 
 ---
