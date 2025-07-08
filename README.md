@@ -1,4 +1,4 @@
-# 🚀Generative AI-IBM PBEL
+# 🚀IBM PBEL Program (Generative AI)
 
 This repository contains a collection of mini-projects and practical notebooks developed as part of the **IBM Project-Based Experiential Learning (PBEL)** program in the domain of **Generative AI**.
 
