@@ -18,10 +18,10 @@ Each task focuses on a specific concept, ranging from foundational Natural Langu
 | **Proj2_Recommender-System_Task6_28June.ipynb** | A content-based recommender system using TF-IDF and cosine similarity. |
 | **SentimentAnalysis_SimpleRNN-LSTM_Task7_1July.ipynb** | Sentiment analysis using RNN and LSTM architectures. |
 | **LSTM_Project_Task8_2July.ipynb** | Building LSTM models for sequential data tasks. |
-| **EmojiMood_Emoji_Generator_from_Text_Task9_6July.ipynb** | Predicting emotions and generating relevant emojis based on text. |
+| **EmojiMood_Emoji_Generator_from_Text_Task9_5July.ipynb** | Predicting emotions and generating relevant emojis based on text. |
 | **GeminiAPI_MiniProject_Task10_7July.ipynb** | Experimenting with Gemini API for NLP tasks. |
 | **AI_Text_to_Image_Generator_Task11_8July.ipynb** | Text-to-image generation using Hugging Face's diffusion models. |
-| **README.md** | Project overview and task descriptions. |
+| **PostCaptionGenerator_Task12_9July.ipynb** | AI-powered tool that generates social media captions, hashtags, and emojis using NLP and Gradio, optimized for platforms like Instagram, LinkedIn, and Twitter. |
 
 ---
 
