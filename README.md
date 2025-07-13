@@ -22,6 +22,7 @@ Each task focuses on a specific concept, ranging from foundational Natural Langu
 | **GeminiAPI_MiniProject_Task10_7July.ipynb** | Experimenting with Gemini API for NLP tasks. |
 | **AI_Text_to_Image_Generator_Task11_8July.ipynb** | Text-to-image generation using Hugging Face's diffusion models. |
 | **PostCaptionGenerator_Task12_9July.ipynb** | AI-powered tool that generates social media captions, hashtags, and emojis using NLP and Gradio, optimized for platforms like Instagram, LinkedIn, and Twitter. |
+| **StoryCrafter_Short_Story_Generator_Task13_10July.ipynb** | Short story generator for kids using GPT-2 based on theme, character, and location. |
 
 ---
 
